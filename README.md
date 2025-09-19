@@ -25,7 +25,7 @@ The project models a basic school system with **students, teachers, and courses*
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/school_project.git
+   git clone https://github.com/ezzmasre/school_project.git
    cd school_project
 Run the program:
 python main.py
